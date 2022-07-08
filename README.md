@@ -48,7 +48,7 @@ Even at 5 seconds per ore, you're still gonna need to spend 20-25 minutes until 
 - Drop chance of Fatty T-Bone from Polar Bears has been increased from 50% > 75%
 - Drop chance of Fatty T-Bone from Polar Bear Clubs has been increased from 50% > 60%
 - Added the drop chance of Fatty T-Bones from Bear Clubs at the rate of 60% to match that of Polar Bear Clubs
-- The amount of Exotics rewqarded for completing all 3 waves of hordes has been increased to the following
+- The amount of Exotics rewarded for completing all 3 waves of hordes has been increased to the following
 
 MinRandomStackCount 30 > 50
 MaxRandomStackCount 45 > 100
