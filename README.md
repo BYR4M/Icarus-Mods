@@ -1,5 +1,5 @@
 # BYR4M'sModPack for Icarus!
-Compatible with latest game update "Icarus Week Thirty Update | Horde Mode #2".
+Compatible with latest game update "Icarus Week Thirty One Update | Community Feedback #1".
 
 ---- DISCLAIMER ----
 
@@ -74,12 +74,6 @@ This is quite a nice addition as it only slightly boosts your ore/stone count.)
 - Gold has now been made a Tier 2 Metal (needing a steel pickaxe or better)
 
 Our reasoning behind this change was because 'most' of the recipes requiring gold were Tier 2 or higher. So it just felt like the right thing to do. Nonetheless, your feedback is always welcomed.
-
-
--- BUILDING/STRUCTURE CHANGES --
-- Glass now has the same properties as concrete. 
-We first mimicked stone but found that after a few storms the glass would still be significantly damaged. So we upped it to the next level which is concrete and have found it a better balance.
-We made this edit purely for base building and design purposes rather than logic.
 
 
 -- DAMAGE MULTIPLIERS --
