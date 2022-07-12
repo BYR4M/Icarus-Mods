@@ -95,7 +95,7 @@ Extractors: Biofuel Extractor, Electric Extractor & Meta Extractor
 
 Radars: Biofuel Radar, Electric Radar & Meta Radar
 
-No more deciding between the two. Now you can carry your mission items, extractors and radars.. all at the same time!
+No more deciding between the two. Now you can carry your mission items, extractors and even radars.. all at the same time!
 
 
 -- OUTPOST CHANGES --
