@@ -88,6 +88,22 @@ Again, our aim isn't to make the game too easy, it's just quality of life adjust
 - This is really just a preference of ours as we spend most our time down in those pesky caves!
 
 
+-- G TOOL QUICKSLOT CHANGES --
+- Added the ability to carry the following tools in your inventory as usual. They're no longer restricted to the G Tool Quickslot.
+
+Extractors:
+Biofuel Extractor
+Electric Extractor
+Meta Extractor
+
+Radars:
+Biofuel Radar
+Electric Radar
+Meta Radar
+
+No more deciding between the two. Now you can carry your mission items, extractors and radars.. all at the same time!
+
+
 -- OUTPOST CHANGES --
 - XP Nerf has been removed. Now gain the usual amount of XP you would expect to gain in any other mission. You're welcome.
 
