@@ -91,15 +91,9 @@ Again, our aim isn't to make the game too easy, it's just quality of life adjust
 -- G TOOL QUICKSLOT CHANGES --
 - Added the ability to carry the following tools in your inventory as usual. They're no longer restricted to the G Tool Quickslot.
 
-Extractors:
-Biofuel Extractor
-Electric Extractor
-Meta Extractor
+Extractors: Biofuel Extractor, Electric Extractor & Meta Extractor
 
-Radars:
-Biofuel Radar
-Electric Radar
-Meta Radar
+Radars: Biofuel Radar, Electric Radar & Meta Radar
 
 No more deciding between the two. Now you can carry your mission items, extractors and radars.. all at the same time!
 
